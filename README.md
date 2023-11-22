@@ -1,4 +1,5 @@
 ### nail-e
+<div style="background-color: #282828; color: #ebdbb2; padding: 10px; border-radius: 5px;">
 
 <!--
 **nail-e/nail-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
