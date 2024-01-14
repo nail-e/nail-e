@@ -1,19 +1,24 @@
 ### nail-e
 <div style="background-color: #282828; color: #ebdbb2; padding: 10px; border-radius: 5px;">
 
-Hello
+## About Me
+I am a passionate [Your Profession/Interests] based in [Your Location]. [Brief description about yourself and what you're passionate about.]
 
-<!--
-**nail-e/nail-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect
+- [Website](elianrieza.dev)
+- [LinkedIn](Your LinkedIn Profile URL)
+- [Mastodon](Your Twitter Profile URL)
 
-Here are some ideas to get you started:
+## 📊 GitHub Analytics
+![Profile Views](https://komarev.com/ghpvc/?username=nail-e)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nail-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+  .
+  .
+  .
+
+
