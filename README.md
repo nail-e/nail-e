@@ -6,7 +6,7 @@
 I am a passionate [Your Profession/Interests] based in [Your Location]. [Brief description about yourself and what you're passionate about.]
 
 ## 🌐 Connect
-- [Website](elianrieza.dev)
+- [Website](https://www.elianrieza.dev)
 - [LinkedIn](Your LinkedIn Profile URL)
 - [Mastodon](Your Twitter Profile URL)
 
