@@ -1,4 +1,5 @@
 ### nail-e
+![Profile Views](https://komarev.com/ghpvc/?username=nail-e)
 <div style="background-color: #282828; color: #ebdbb2; padding: 10px; border-radius: 5px;">
 
 ## About Me
@@ -10,7 +11,6 @@ I am a passionate [Your Profession/Interests] based in [Your Location]. [Brief d
 - [Mastodon](Your Twitter Profile URL)
 
 ## 📊 GitHub Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=nail-e)
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nail-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Skills
