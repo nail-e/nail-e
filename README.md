@@ -12,6 +12,8 @@ I am a passionate [Your Profession/Interests] based in [Your Location]. [Brief d
 
 ## 📊 GitHub Analytics
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nail-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![nail-e's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nail-e&theme=dark&hide_border=true)
+![nail-e's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nail-e&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 🛠️ Skills
 - [Skill 1]
