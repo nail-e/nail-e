@@ -7,19 +7,16 @@
 ![nail-e's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nail-e&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ## About Me
-I am a passionate [Your Profession/Interests] based in [Your Location]. [Brief description about yourself and what you're passionate about.]
+Hello, I'm Elian. 
 
 ## 🌐 Connect
 - [Website](https://www.elianrieza.dev)
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Mastodon](Your Twitter Profile URL)
+- [LinkedIn](https://www.linkedin.com/in/elian-r/)
+- [Mastodon]()
 
-## 🛠️ Skills
+## 🛠️ Programming Skills
 - [Skill 1]
 - [Skill 2]
 - [Skill 3]
-  .
-  .
-  .
 
 
